@@ -1,0 +1,5 @@
+{
+  "name": "Restaurant Reservation Admin Panel",
+  "description": "An admin panel for managing restaurant reservations, tables, and settings, featuring a dashboard with AI-powered staff briefings.",
+  "requestFramePermissions": []
+}
